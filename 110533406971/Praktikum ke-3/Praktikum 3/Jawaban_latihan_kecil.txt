@@ -1,0 +1,18 @@
+Indri Widyarti
+110533406971/S1-PTI 2011 Offering A
+
+
+Jawaban Latihan Kecil :
+
+Latihan 1
+a. Apabila menggunakan super global $_GET  untuk membaca method post, maka variabel yang diinputkan (dimasukkan) tidak akan dapat ditampilkan, dan begitu pula sebaliknya, 
+Akan tetapi, apabila superglobal $_POST digunakan untuk menangani method get, maka variabelnya juga tidak akan keluar (ditampilkan). 
+b. Variable superglobal $_REQUEST dapat digunakan untuk menangani method POST dan GET 
+
+Latihan 3
+Untuk memberikan nilai default pada kumpulan Radio button, ditambahkan checked pada salah satu radio button. 
+misalnya saja:
+<input type="radio" name="sex" value="Pria" checked>Pria<br>
+		<input type="radio" name="sex" value="Wanita">Wanita<br>
+
+maka secara otomatis itu akan memilih radio button Pria
